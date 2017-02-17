@@ -1,0 +1,12 @@
+md-card {
+    margin: 20px;
+}
+
+.header-caption {
+    text-align: center;
+    font-size: 40px;
+}
+
+.footer-caption {
+    text-align: center;
+}
